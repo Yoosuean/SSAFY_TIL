@@ -55,5 +55,5 @@ for tc in range(T):
             elif maps[i][j]==2:
                 white_rock+=1
             
-    print(f"#{tc+1} {black_rock} {white_rock}")
+    print(f"#{tc+1} {black_rock} {white_rock}") 
     
