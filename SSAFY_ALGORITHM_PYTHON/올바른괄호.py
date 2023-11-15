@@ -10,4 +10,4 @@ def solution(s):
             else:
                 return False
     if len(temp_arr)==0: return True
-    return False
+    return False 
