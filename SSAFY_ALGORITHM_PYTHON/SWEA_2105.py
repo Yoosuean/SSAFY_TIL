@@ -41,3 +41,4 @@ for tc in range(T):
             sy=j
             dfs(i,j,N,0,1,cafe,sx,sy)
     print(f"#{tc+1} {res}")
+ 
