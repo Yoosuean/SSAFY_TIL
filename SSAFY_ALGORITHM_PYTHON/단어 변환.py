@@ -1,4 +1,4 @@
-INF=int(1e9)
+INF=int(1e9) 
 min_res=INF
 def solution(begin, target, words):
     global min_res
